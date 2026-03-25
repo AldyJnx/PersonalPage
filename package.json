@@ -4,8 +4,8 @@
   "description": "Portfolio Personal - Next.js 15",
   "private": true,
   "engines": {
-    "node": ">=18.17.0",
-    "npm": ">=9.0.0"
+    "node": ">=20.9.0",
+    "npm": ">=10.0.0"
   },
   "scripts": {
     "dev": "next dev",
