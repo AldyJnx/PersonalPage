@@ -2,8 +2,10 @@ services:
   - type: web
     name: portfolio
     env: node
+    region: oregon
+    plan: free
     buildCommand: npm install && npm run build
-    startCommand: npm start
+    startCommand: node .next/standalone/server.js
     envVars:
       - key: NODE_VERSION
         value: 18.17.0

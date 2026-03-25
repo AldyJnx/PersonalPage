@@ -2,7 +2,7 @@
   "name": "pagpersonal",
   "version": "1.0.0",
   "description": "Portfolio Personal - Next.js 15",
-  "main": "index.js",
+  "private": true,
   "engines": {
     "node": ">=18.17.0",
     "npm": ">=9.0.0"
