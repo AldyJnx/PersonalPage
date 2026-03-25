@@ -1,0 +1,38 @@
+# Image Directory
+
+Place your images in the following subdirectories:
+
+## Blog Images
+`/images/blog/` - Images for blog posts
+
+## Project Images
+`/images/projects/` - Images for projects
+
+## General
+`/images/` - Other images (avatar, etc.)
+
+## Recommended Image Sizes
+
+- Blog post featured images: 1200x630px
+- Project screenshots: 1920x1080px or 16:9 ratio
+- Avatar/Profile: 400x400px (square)
+
+## Supported Formats
+
+- JPEG (.jpg, .jpeg)
+- PNG (.png)
+- WebP (.webp)
+- AVIF (.avif)
+
+## Optimization Tips
+
+1. Compress images before adding them
+2. Use WebP format for better performance
+3. Use descriptive file names (e.g., `next-js-tutorial.jpg`)
+4. Avoid spaces in file names (use hyphens instead)
+
+## Tools for Image Optimization
+
+- [TinyPNG](https://tinypng.com/)
+- [Squoosh](https://squoosh.app/)
+- [ImageOptim](https://imageoptim.com/) (Mac)

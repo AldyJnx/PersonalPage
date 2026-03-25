@@ -291,5 +291,4 @@ If you have questions or need help, please open an issue on GitHub.
 
 ---
 
-Built with care by Aldy Pastor
-"# PersonalPage" 
+Built with care by Aldy Jnx 
